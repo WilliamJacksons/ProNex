@@ -27,13 +27,13 @@ The immediate goal is to establish the production environment, configure the CI/
 * **Database:** MySQL 8.0
 * **Backend:** PHP 8.2
 
-**Example for a MERN Stack:**
+**a MERN Stack:**
 * **Frontend:** React.js
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB
 * **Web Server:** Nginx (as reverse proxy)
 
-**Example for a Static Site:**
+**a Static Site:**
 * **Markup:** HTML5
 * **Styling:** Sass (CSS3)
 * **JavaScript:** ES6+ (Vanilla JS
