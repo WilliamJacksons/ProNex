@@ -5,9 +5,9 @@
 
 A brief, professional description of your project. This **must match** the "use-case" you provided in your support ticket.
 
-* **Example 1 (Portfolio):** "The source code for my professional portfolio website, built to showcase my projects and skills to potential clients."
-* **Example 2 (Blog):** "A modern, fast, and secure WordPress blog setup, configured to run on a LEMP stack."
-* **Example 3 (App):** "A small business management tool [for X purpose] using a Node.js backend and React frontend."
+* **(Portfolio):** "The source code for my professional portfolio website, built to showcase my projects and skills to potential clients."
+* **(Blog):** "A modern, fast, and secure WordPress blog setup, configured to run on a LEMP stack."
+* **(App):** "A small business management tool [for X purpose] using a Node.js backend and React frontend."
 
 ---
 
