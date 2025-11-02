@@ -21,7 +21,7 @@ The immediate goal is to establish the production environment, configure the CI/
 
 (Choose the stack that matches what you told them)
 
-**Example for a LEMP Stack:**
+**a LEMP Stack:**
 * **OS:** Ubuntu 22.04
 * **Web Server:** Nginx
 * **Database:** MySQL 8.0
